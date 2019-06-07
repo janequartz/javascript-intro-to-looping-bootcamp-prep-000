@@ -26,7 +26,6 @@ function incrementVariable() {
 }
   do{
     console.log("I run once regardless.")
-    i++
   }
   while
   (incrementVariable() < int)
